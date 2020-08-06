@@ -1,0 +1,427 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="307e9a6b-454e-4389-a2e1-2ca3df26f978" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/ui/register-vacation-uiserver/src/main/angular/register" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1Ziqx5uUGg8KvPWfTLrn9u04JeD" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="extract.method.default.visibility" value="private" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="br.com.test.dto" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="br.com.test" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="br.com.test.interceptor" />
+      <recent name="br.com.test" />
+      <recent name="br.com.test.service.impl" />
+      <recent name="br.com.test.service" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\dev\Workspace\register-vacation" />
+      <recent name="C:\dev\Workspace\register-vacation\ui\register-vacation-uiserver\src\main\java\br\com\test\exception" />
+      <recent name="C:\dev\Workspace\register-vacation\ui\register-vacation-uiserver\src\main\java\br\com\test\filter" />
+      <recent name="C:\dev\Workspace\register-vacation\ui\register-vacation-uiserver\src\main\java\br\com\test\authentication" />
+      <recent name="C:\dev\Workspace\register-vacation\ui\register-vacation-uiserver\src\main\java\br.com.test\config" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.StaffServerApplication">
+    <configuration name="StaffServerApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="br.com.test.StaffServerApplication" />
+      <module name="register-vacation-employee-server" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="br.com.test.repository.impl.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UiServerApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="br.com.test.UiServerApplication" />
+      <module name="register-vacation-uiserver" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="br.com.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Ui-server" type="MavenRunConfiguration" factoryName="Maven">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="spring-boot:run" />
+              </list>
+            </option>
+            <option name="pomFileName" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$/ui/register-vacation-uiserver" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+    <configuration name="register-vacation-ui-parent [clean]" type="MavenRunConfiguration" factoryName="Maven" temporary="true">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="clean" />
+              </list>
+            </option>
+            <option name="pomFileName" value="pom.xml" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$/ui" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+    <configuration name="register-vacation-ui-parent [install]" type="MavenRunConfiguration" factoryName="Maven" temporary="true">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="install" />
+              </list>
+            </option>
+            <option name="pomFileName" value="pom.xml" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$/ui" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Application.StaffServerApplication" />
+      <item itemvalue="Application.UiServerApplication" />
+      <item itemvalue="Maven.Ui-server" />
+      <item itemvalue="Maven.register-vacation-ui-parent [install]" />
+      <item itemvalue="Maven.register-vacation-ui-parent [clean]" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.StaffServerApplication" />
+        <item itemvalue="Application.UiServerApplication" />
+        <item itemvalue="Maven.register-vacation-ui-parent [clean]" />
+        <item itemvalue="Maven.register-vacation-ui-parent [install]" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="307e9a6b-454e-4389-a2e1-2ca3df26f978" name="Default Changelist" comment="" />
+      <created>1585332505334</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585332505334</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.sql" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/ui/register-vacation-uiserver/src/main/angular/register" />
+    </ignored-roots>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="722" y="331" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1596674169656">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="722" y="331" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1596674169656" />
+    <state x="700" y="150" key="#com.intellij.ide.util.MemberChooser" timestamp="1596635476192">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="700" y="150" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040/-1440.2.1440.860@0.0.1920.1040" timestamp="1596635476192" />
+    <state x="143" y="243" key="#xdebugger.evaluate" timestamp="1596671369941">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="143" y="243" key="#xdebugger.evaluate/0.0.1920.1040/-1440.2.1440.860@0.0.1920.1040" timestamp="1588968478773" />
+    <state x="143" y="243" key="#xdebugger.evaluate/0.0.1920.1040@0.0.1920.1040" timestamp="1596671369941" />
+    <state width="431" height="466" key="DebuggerActiveHint" timestamp="1596671829402">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="431" height="466" key="DebuggerActiveHint/0.0.1920.1040/-1440.2.1440.860@0.0.1920.1040" timestamp="1588968145816" />
+    <state width="431" height="466" key="DebuggerActiveHint/0.0.1920.1040@0.0.1920.1040" timestamp="1596671829402" />
+    <state width="1877" height="348" key="GridCell.Tab.0.bottom" timestamp="1596673809992">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1397" height="272" key="GridCell.Tab.0.bottom/0.0.1920.1040/-1440.2.1440.860@-1440.2.1440.860" timestamp="1588111032281" />
+    <state width="1877" height="348" key="GridCell.Tab.0.bottom/0.0.1920.1040/-1440.2.1440.860@0.0.1920.1040" timestamp="1588969405882" />
+    <state width="1877" height="348" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1596673809992" />
+    <state width="1877" height="348" key="GridCell.Tab.0.center" timestamp="1596673809992">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1397" height="272" key="GridCell.Tab.0.center/0.0.1920.1040/-1440.2.1440.860@-1440.2.1440.860" timestamp="1588111032281" />
+    <state width="1877" height="348" key="GridCell.Tab.0.center/0.0.1920.1040/-1440.2.1440.860@0.0.1920.1040" timestamp="1588969405882" />
+    <state width="1877" height="348" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1596673809992" />
+    <state width="1877" height="348" key="GridCell.Tab.0.left" timestamp="1596673809991">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1397" height="272" key="GridCell.Tab.0.left/0.0.1920.1040/-1440.2.1440.860@-1440.2.1440.860" timestamp="1588111032281" />
+    <state width="1877" height="348" key="GridCell.Tab.0.left/0.0.1920.1040/-1440.2.1440.860@0.0.1920.1040" timestamp="1588969405882" />
+    <state width="1877" height="348" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1596673809991" />
+    <state width="1877" height="348" key="GridCell.Tab.0.right" timestamp="1596673809992">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1397" height="272" key="GridCell.Tab.0.right/0.0.1920.1040/-1440.2.1440.860@-1440.2.1440.860" timestamp="1588111032281" />
+    <state width="1877" height="348" key="GridCell.Tab.0.right/0.0.1920.1040/-1440.2.1440.860@0.0.1920.1040" timestamp="1588969405882" />
+    <state width="1877" height="348" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1596673809992" />
+    <state width="1877" height="348" key="GridCell.Tab.1.bottom" timestamp="1596673809992">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.bottom/0.0.1920.1040/-1440.2.1440.860@0.0.1920.1040" timestamp="1588969405882" />
+    <state width="1877" height="348" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1596673809992" />
+    <state width="1877" height="348" key="GridCell.Tab.1.center" timestamp="1596673809992">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.center/0.0.1920.1040/-1440.2.1440.860@0.0.1920.1040" timestamp="1588969405882" />
+    <state width="1877" height="348" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1596673809992" />
+    <state width="1877" height="348" key="GridCell.Tab.1.left" timestamp="1596673809992">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.left/0.0.1920.1040/-1440.2.1440.860@0.0.1920.1040" timestamp="1588969405882" />
+    <state width="1877" height="348" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1596673809992" />
+    <state width="1877" height="348" key="GridCell.Tab.1.right" timestamp="1596673809992">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.right/0.0.1920.1040/-1440.2.1440.860@0.0.1920.1040" timestamp="1588969405882" />
+    <state width="1877" height="348" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1596673809992" />
+    <state x="463" y="166" key="SettingsEditor" timestamp="1596588854464">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="463" y="166" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1596588854464" />
+    <state x="681" y="261" width="540" height="524" key="StructurePopup" timestamp="1596670399245">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="681" y="261" width="540" height="524" key="StructurePopup/0.0.1920.1040@0.0.1920.1040" timestamp="1596670399245" />
+    <state x="-1348" y="94" width="1256" height="676" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1588110915935">
+      <screen x="-1440" y="2" width="1440" height="860" />
+    </state>
+    <state x="-1348" y="94" width="1256" height="676" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.1920.1040/-1440.2.1440.860@-1440.2.1440.860" timestamp="1588110915935" />
+    <state x="668" y="349" key="com.intellij.ide.util.TipDialog" timestamp="1596586055217">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="668" y="349" key="com.intellij.ide.util.TipDialog/0.0.1920.1040/-1440.2.1440.860@0.0.1920.1040" timestamp="1591704902641" />
+    <state x="668" y="349" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1596586055217" />
+    <state x="569" y="225" width="782" height="591" key="find.popup" timestamp="1596590428134">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="-1013" y="188" width="603" height="488" key="find.popup/0.0.1920.1040/-1440.2.1440.860@-1440.2.1440.860" timestamp="1588095489509" />
+    <state x="569" y="225" width="782" height="591" key="find.popup/0.0.1920.1040/-1440.2.1440.860@0.0.1920.1040" timestamp="1588954682599" />
+    <state x="569" y="225" width="782" height="591" key="find.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1596590428134" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/microservice/employee/employee-server/src/main/java/br/com/test/service/impl/EmployeeServiceImpl.java</url>
+          <line>73</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/microservice/employee/employee-server/src/main/java/br/com/test/service/impl/TeamServiceImpl.java</url>
+          <line>59</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/microservice/employee/employee-server/src/main/java/br/com/test/service/impl/EmployeeServiceImpl.java</url>
+          <line>45</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/microservice/employee/employee-server/src/main/java/br/com/test/controller/VacationController.java</url>
+          <line>31</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/ui/register-vacation-uiserver/src/main/java/br/com/test/service/impl/UserService.java</url>
+          <line>23</line>
+          <properties>
+            <option name="lambda-ordinal" value="-1" />
+          </properties>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/ui/register-vacation-uiserver/src/main/java/br/com/test/filter/IgnoredRoutesFilter.java</url>
+          <line>52</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/ui/register-vacation-uiserver/src/main/java/br/com/test/filter/IgnoredRoutesFilter.java</url>
+          <line>38</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/ui/register-vacation-uiserver/src/main/java/br/com/test/interceptor/OAuth2RestTemplateInterceptor.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/microservice/employee/employee-server/src/main/java/br/com/test/config/ResourceServerConfig.java</url>
+          <line>62</line>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/springframework/security/oauth/spring-security-oauth2/2.3.4.RELEASE/spring-security-oauth2-2.3.4.RELEASE.jar!/org/springframework/security/oauth2/provider/token/store/JwtTokenStore.class</url>
+          <line>58</line>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/microservice/employee/employee-server/src/main/java/br/com/test/config/ResourceServerConfig.java</url>
+          <line>56</line>
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/springframework/security/oauth/spring-security-oauth2/2.3.4.RELEASE/spring-security-oauth2-2.3.4.RELEASE.jar!/org/springframework/security/oauth2/provider/token/store/JwtAccessTokenConverter.class</url>
+          <line>199</line>
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/springframework/security/spring-security-jwt/1.0.9.RELEASE/spring-security-jwt-1.0.9.RELEASE.jar!/org/springframework/security/jwt/JwtHelper.class</url>
+          <line>49</line>
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/springframework/security/oauth/spring-security-oauth2/2.3.4.RELEASE/spring-security-oauth2-2.3.4.RELEASE-sources.jar!/org/springframework/security/oauth2/provider/token/store/JwtAccessTokenConverter.java</url>
+          <line>190</line>
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/springframework/security/oauth/spring-security-oauth2/2.3.4.RELEASE/spring-security-oauth2-2.3.4.RELEASE-sources.jar!/org/springframework/security/oauth2/provider/token/store/JwtAccessTokenConverter.java</url>
+          <line>175</line>
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/springframework/security/oauth/spring-security-oauth2/2.3.4.RELEASE/spring-security-oauth2-2.3.4.RELEASE-sources.jar!/org/springframework/security/oauth2/provider/token/store/JwtAccessTokenConverter.java</url>
+          <line>197</line>
+          <option name="timeStamp" value="20" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/springframework/security/oauth/spring-security-oauth2/2.3.4.RELEASE/spring-security-oauth2-2.3.4.RELEASE-sources.jar!/org/springframework/security/oauth2/provider/token/store/JwtAccessTokenConverter.java</url>
+          <line>298</line>
+          <option name="timeStamp" value="21" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/springframework/security/spring-security-jwt/1.0.9.RELEASE/spring-security-jwt-1.0.9.RELEASE-sources.jar!/org/springframework/security/jwt/crypto/sign/RsaKeyHelper.java</url>
+          <line>91</line>
+          <option name="timeStamp" value="22" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/springframework/security/spring-security-jwt/1.0.9.RELEASE/spring-security-jwt-1.0.9.RELEASE-sources.jar!/org/springframework/security/jwt/crypto/sign/RsaKeyHelper.java</url>
+          <line>40</line>
+          <option name="timeStamp" value="23" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/springframework/security/spring-security-jwt/1.0.9.RELEASE/spring-security-jwt-1.0.9.RELEASE-sources.jar!/org/springframework/security/jwt/crypto/sign/RsaKeyHelper.java</url>
+          <line>67</line>
+          <option name="timeStamp" value="24" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://C:/Program Files/Java/jdk1.8.0_191/src.zip!/java/security/KeyFactory.java</url>
+          <line>326</line>
+          <option name="timeStamp" value="25" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://C:/Program Files/Java/jdk1.8.0_191/jre/lib/rt.jar!/sun/security/rsa/RSAKeyFactory.class</url>
+          <line>157</line>
+          <option name="timeStamp" value="26" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://C:/Program Files/Java/jdk1.8.0_191/jre/lib/rt.jar!/sun/security/rsa/RSAPublicKeyImpl.class</url>
+          <line>45</line>
+          <option name="timeStamp" value="27" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

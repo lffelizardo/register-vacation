@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+
+    <groupId>org.example</groupId>
+    <artifactId>register-vacation</artifactId>
+    <packaging>pom</packaging>
+    <version>1.0-SNAPSHOT</version>
+    <modules>
+        <module>microservice</module>
+    </modules>
+
+    <name>register-vacation Parent</name>
+    <description>register-vacation Parent</description>
+    <profiles>
+
+        <profile>
+            <id>all</id>
+            <modules>
+                <module>microservice</module>
+            </modules>
+        </profile>
+        <profile>
+            <id>ui</id>
+            <modules>
+                <module>ui</module>
+            </modules>
+        </profile>
+        <profile>
+            <id>microservices</id>
+            <modules>
+                <module>microservice</module>
+            </modules>
+        </profile>
+
+        <profile>
+            <id>domain</id>
+            <modules>
+                <module>microservice/employee/employee-domain</module>
+            </modules>
+        </profile>
+
+        <profile>
+            <id>employee</id>
+            <modules>
+                <module>microservice/employee</module>
+            </modules>
+        </profile>
+
+    </profiles>
+
+
+
+</project>

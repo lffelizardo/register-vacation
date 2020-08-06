@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="register-vacation-employee-domain" />
+        <module name="register-vacation-employee-server" />
+        <module name="register-vacation-uiserver" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="register-vacation" target="1.5" />
+      <module name="register-vacation-employee-domain" target="1.8" />
+      <module name="register-vacation-employee-parent" target="1.8" />
+      <module name="register-vacation-employee-server" target="1.8" />
+      <module name="register-vacation-microservice-parent" target="1.8" />
+      <module name="register-vacation-uiserver" target="1.8" />
+      <module name="ui" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="register-vacation-employee-domain" options="-parameters" />
+      <module name="register-vacation-employee-server" options="-parameters" />
+      <module name="register-vacation-uiserver" options="-parameters" />
+      <module name="ui" options="-parameters" />
+    </option>
+  </component>
+</project>

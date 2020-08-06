@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/register-vacation.iml" filepath="$PROJECT_DIR$/register-vacation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/microservice/employee/employee-domain/register-vacation-employee-domain.iml" filepath="$PROJECT_DIR$/microservice/employee/employee-domain/register-vacation-employee-domain.iml" />
+      <module fileurl="file://$PROJECT_DIR$/microservice/employee/register-vacation-employee-parent.iml" filepath="$PROJECT_DIR$/microservice/employee/register-vacation-employee-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/microservice/employee/employee-server/register-vacation-employee-server.iml" filepath="$PROJECT_DIR$/microservice/employee/employee-server/register-vacation-employee-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/microservice/register-vacation-microservice-parent.iml" filepath="$PROJECT_DIR$/microservice/register-vacation-microservice-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ui/register-vacation-uiserver/register-vacation-uiserver.iml" filepath="$PROJECT_DIR$/ui/register-vacation-uiserver/register-vacation-uiserver.iml" />
+    </modules>
+  </component>
+</project>

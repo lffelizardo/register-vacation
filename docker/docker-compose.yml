@@ -1,0 +1,9 @@
+mysql:
+    image: mysql:5.7
+    environment:
+        - MYSQL_DATABASE=register
+        - MYSQL_ROOT_PASSWORD=root6Beer
+    ports:
+        - "3306:3306"
+    volumes:
+        - ./sql-scripts/CreateDatabase.sql:/docker-entrypoint-initdb.d/CreateDatabase.sql
